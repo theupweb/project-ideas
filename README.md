@@ -24,3 +24,16 @@ Discussion and list of project ideas for opensource community. Completely collab
 ## Your First Idea
 
 (start editing from here)
+### Title
+ Lyrics Finder app
+### Description
+ A web app that will basically provide the lyrics of the desired song as text. In this app, user will be basically able to serach up for any song and then the app will provide the lyrics of that app
+### Usage
+ Muisc Tool
+### Preferred Stack
+ React Js / Tailwind CSS
+## Additonal Resources
+ For this app, we will use an api provided by musixmatch for developers 
+ there are two plans for this api, one is free and the other one is paid
+ we will use the free api, it provides 30% of a song lyrics
+ 
