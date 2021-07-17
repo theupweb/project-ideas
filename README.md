@@ -3,14 +3,9 @@ Discussion and list of project ideas for opensource community. Completely collab
 
 ( You are free to edit this readme file and add your projects in mentioned [format](#format) )
 
-
-# List of Ideas
-- [Your First Idea](#first-idea)
-
-
 ## Format
 ```
-### Title
+## Title
  (Eg. Find Twitter Jobs)
 ### Description 
 (minimum 50 words)
@@ -21,11 +16,14 @@ Discussion and list of project ideas for opensource community. Completely collab
 ### Additional Resources
 ( Share your in-depth discussion, links, learning resources, API references etc.)
 ```
-## Your First Idea
 
-(start editing from here)
-### Title
- Lyrics Finder app
+# List of Ideas
+- [Lyrics Finder app](#lyrics-finder-app)
+
+
+
+## Lyrics Finder app
+
 ### Description
  A web app that will basically provide the lyrics of the desired song as text. In this app, user will be basically able to serach up for any song and then the app will provide the lyrics of that app
 ### Usage
