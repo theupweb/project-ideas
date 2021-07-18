@@ -44,3 +44,5 @@ Discussion and list of project ideas for opensource community. Completely collab
 - [Anurag](https://github.com/anurag-coder01)
 ### Project Link
  https://get-lyrics.netlify.app/
+### Github Repo Link
+https://github.com/anurag-coder01/Lyrics-App
