@@ -16,10 +16,10 @@ Discussion and list of project ideas for opensource community. Completely collab
 ### Additional Resources
 ( Share your in-depth discussion, links, learning resources, API references etc.)
 
-### Author
+### Author(s)
 - [Joshua Poddoku](https://github.com/JoshuaPoddoku)
 
-### Repository
+### Project Link
 - (add link)
 ```
 
@@ -41,5 +41,6 @@ Discussion and list of project ideas for opensource community. Completely collab
  there are two plans for this api, one is free and the other one is paid
  we will use the free api, it provides 30% of a song lyrics
 ### Author
-- [Anurag}(https://github.com/anurag-coder01)
+- [Anurag](https://github.com/anurag-coder01)
+### Project Link
  
