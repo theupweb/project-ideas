@@ -40,7 +40,7 @@ Discussion and list of project ideas for opensource community. Completely collab
  For this app, we will use the [solenolyrics](https://github.com/SOLENO/solenolyrics) api <br />
  It's a free api
 ### Author
-- [Anurag](https://github.com/anurag-coder01)
+- [Anurag](https://github.com/kr-anurag)
 ### Project Link
  https://get-lyrics.netlify.app/
 ### Github Repo Link
