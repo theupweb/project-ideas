@@ -37,9 +37,8 @@ Discussion and list of project ideas for opensource community. Completely collab
 ### Preferred Stack
  React Js / Tailwind CSS
 ### Additonal Resources
- For this app, we will use an api provided by musixmatch for developers 
- there are two plans for this api, one is free and the other one is paid
- we will use the free api, it provides 30% of a song lyrics
+ For this app, we will use the [solenolyrics](https://github.com/SOLENO/solenolyrics) api 
+ It's a free api
 ### Author
 - [Anurag](https://github.com/anurag-coder01)
 ### Project Link
