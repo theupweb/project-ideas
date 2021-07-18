@@ -15,6 +15,12 @@ Discussion and list of project ideas for opensource community. Completely collab
 
 ### Additional Resources
 ( Share your in-depth discussion, links, learning resources, API references etc.)
+
+### Author
+- [Joshua Poddoku](https://github.com/JoshuaPoddoku)
+
+### Repository
+- (add link)
 ```
 
 # List of Ideas
@@ -30,8 +36,10 @@ Discussion and list of project ideas for opensource community. Completely collab
  Muisc Tool
 ### Preferred Stack
  React Js / Tailwind CSS
-## Additonal Resources
+### Additonal Resources
  For this app, we will use an api provided by musixmatch for developers 
  there are two plans for this api, one is free and the other one is paid
  we will use the free api, it provides 30% of a song lyrics
+### Author
+- [Anurag}(https://github.com/anurag-coder01)
  
