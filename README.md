@@ -49,7 +49,7 @@ https://github.com/anurag-coder01/Lyrics-App
 ## Movie Finder App
 
 ### Description
- A web app that displays the saerched movie's name, rating ⭐, cast and more!!
+ A web app that displays the searched movie's name, rating ⭐, cast and more!!
 ### Usage
  Movie App
 ### Prefrerred Stack
