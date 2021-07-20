@@ -33,7 +33,7 @@ Discussion and list of project ideas for opensource community. Completely collab
 ### Description
  A web app that will basically provide the lyrics of the desired song as text. In this app, user will be basically able to serach up for any song and then the app will provide the lyrics of that app
 ### Usage
- Muisc Tool
+ Music Tool
 ### Preferred Stack
  React Js / Tailwind CSS
 ### Additonal Resources
@@ -45,3 +45,17 @@ Discussion and list of project ideas for opensource community. Completely collab
  https://get-lyrics.netlify.app/
 ### Github Repo Link
 https://github.com/anurag-coder01/Lyrics-App
+
+## Movie Finder App
+
+### Description
+ A web app that displays the saerched movie's name, rating ⭐, cast and more!!
+### Usage
+ Movie App
+### Prefrerred Stack
+ React JS / Tailwind CSS
+### Additonal Resources
+ For this web app, we will use the OMDb api
+### Author
+- [Anurag](https://github.com/kr-anurag)
+ 
